@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - 💼 **Senior Backend Developer** with **4+ years of experience** in building scalable APIs, full-stack applications, and complex system architectures using **Laravel**, **Livewire**, **Filament**, **Flutter**, and **Tailwind CSS**.
 
