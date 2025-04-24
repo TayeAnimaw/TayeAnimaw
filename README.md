@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **`Laravel`, `Filament`, `Livewire`, `TailwindCSS`, `API Development`, `MySQL`, `React.js`, `Node.js`, `Python`, `Golang`**
 
-- 📫 How to reach me **tayeanimaw7@gmail.com or https://www.linke or din.com/in/taye-animaw/ or +251921438827 or https://taye-animaw.vercel.app or @berealstic on telegram**
+- 📫 How to reach me **tayeanimaw7@gmail.com or https://www.linkedin.com/in/taye-animaw/ or https://taye-animaw.vercel.app or @berealstic on telegram**
 
 - 📄 Know about my experiences [https://taye-animaw.vercel.app/](https://taye-animaw.vercel.app/)
 
