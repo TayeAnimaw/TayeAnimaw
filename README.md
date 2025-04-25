@@ -45,10 +45,10 @@
 
 ### 🧠 Technologies & Tools
 
-- **Backend**: Laravel, Python, Golang, Node.js
+- **Backend**: Laravel, Python, Golang, Node.js, django, fastApi
 - **Frontend**: React.js, Flutter, Tailwind CSS, Livewire
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Nginx, AWS
+- **Database**: MySQL, PostgreSQL, sqlite,  MongoDB
+- **DevOps**: Docker, AWS
 - **Version Control**: Git, GitHub, GitLab
 
 ---
