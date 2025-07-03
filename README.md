@@ -57,7 +57,7 @@
 
 - **Email**: [tayeanimaw7@gmail.com](mailto:tayeanimaw7@gmail.com)
 - **LinkedIn**: [taye-animaw](https://www.linkedin.com/in/taye-animaw/)
-- **Personal Website**: [taye-animaw.vercel.app](https://taye-animaw.vercel.app/)
+
 - **Telegram**: [@berealstic](https://t.me/berealstic)
 
 ---
