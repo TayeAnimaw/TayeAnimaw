@@ -1,139 +1,130 @@
-<!-- ======================== Animated Typing Header ======================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi,+I%27m+Taye+Animaw+%F0%9F%91%8B;Senior+Backend+Engineer+%7C+Full-Stack+Developer;Building+Scalable+Systems+%26+Real-World+Apps;Always+Learning+%7C+Always+Growing" />
-</p>
+<!-- ===== HEADER ANIMATION ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1CD6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Taye+Animaw+Aemneh!+👋;Fullstack+Developer+%7C+Mobile+Engineer+%7C+Cloud+%26+Backend+Expert;Building+Modern+Apps+with+Clean+Architecture;Always+Learning+%26+Always+Shipping+🚀">
+</div>
 
-<h2 align="center">🌟 Senior Backend Engineer • Full-Stack Developer • Software Architect</h2>
+<br>
 
-<p align="center">
-  <a href="https://github.com/tayeanimaw">
-    <img src="https://komarev.com/ghpvc/?username=tayeanimaw&style=for-the-badge&color=blue" alt="Profile Views" />
-  </a>
-</p>
+<!-- ===== ABOUT ME ===== -->
+## 👨‍💻 About Me  
+I'm **Taye Animaw Aemneh**, a passionate **Full-Stack Software Engineer** specializing in  
+modern backend engineering, cloud infrastructure, mobile development, and scalable system design.
 
----
+I love building **production-ready applications**, integrating external services,  
+and delivering clean, optimized, and secure solutions.
 
-## 🚀 About Me
-
-I’m a **Senior Backend Engineer & Full-Stack Developer** dedicated to designing and building high-performance, scalable systems. With 4+ years of experience, I’ve worked on real-world applications in fintech, real estate, education, and more.
-
-- Architecting **enterprise backend systems** with clean architecture  
-- Building **API-first applications** using Laravel, FastAPI, Django, and Node.js  
-- Developing **mobile solutions** (Flutter & React Native)  
-- Integrating **payment & banking APIs** (Stripe, Twilio, Bank of Abyssinia)  
-- Leading development teams and mentoring younger engineers  
-- Focused on **clean code**, **testability**, and **continuous delivery**
+🌍 Based in Addis Ababa, Ethiopia  
+💼 Worked with multiple companies + freelance projects  
+🎯 Focused on FinTech, Real-Estate, Delivery Apps, eCommerce & SaaS  
 
 ---
 
-## 🛠️ Tech Stack
+# 🧩 **Tech Stack & Skills**
 
-### 🧱 Backend & APIs  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)  
-![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi)  
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js)
+<div align="center">
 
-### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)  
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge)
-
-### 📱 Mobile  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-
-### 🗄️ Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![MySQL](https://img.shields.io/badge/MySQL-0A74A5?style=for-the-badge&logo=mysql)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### ⚙️ DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### **🖥️ Languages**
+| PHP | Python | JavaScript | TypeScript | Dart |
+|-----|--------|-------------|-------------|------|
+| Laravel | FastAPI | Django | Node.js | Flutter |
 
 ---
 
-## 🚧 Featured Projects
+### **🗄 Databases**
+**MariaDB • PostgreSQL • MongoDB • Firebase • Supabase**
 
-Here are some key projects I’ve built or heavily contributed to:
+### **⚙ DevOps & Cloud**
+**Docker • Kubernetes • Google Cloud • cPanel**
 
-- **Real Estate App**  
-  A scalable Laravel + Flutter platform for property listings and bookings.  
-  🔗 [View Project](https://mana-et-realestate-clone.vercel.app/)
+### **🧰 Tools**
+**Postman • Git • GitHub • VS Code • Linux • Figma**
 
-- **Hakim Express (Remittance App)**  
-  Integrated with **Stripe**, **Twilio**, and **Bank of Abyssinia** to handle payments, SMS, and banking operations.
-
-- **Negadras Delivery App**  
-  Full-featured delivery system integrating **Telebirr**, **Chapa**, **Google Maps**, **Gebeta Map**, and **Afromessages**.
-
-- **Niimblr Clone**  
-  Project management and collaboration tool for teams.  
-  🔗 [View Project](https://niimblr-clone.vercel.app/login)
-
-- **School Management System (Yess Ethiopia)**  
-  Administrative system for colleges, including student enrollment, courses, and operations.  
-  🔗 [View Project](https://www.yessinternational.org/)
-
-- **Cafe Management System**  
-  A comprehensive POS and management system for cafes — orders, inventory, staff, and more.  
-  🔗 [View Project](https://etalem-cafe-system.vercel.app/self-orders/3)
+</div>
 
 ---
 
-## 🎮 GitHub Trophies
+# 📦 **Featured Projects (Professional Showcase)**
 
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=tayeanimaw&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies" />  
-</p>
+## 🔹 1. **Hakim Express – Remittance App**
+A modern remittance platform with highly secure integrations:
 
----
-
-## 📊 GitHub Status & Performance
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=tayeanimaw&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />  
-</p>  
-
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayeanimaw&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />  
-</p>
-
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tayeanimaw&theme=tokyonight" alt="GitHub Streak" />  
-</p>
+✅ Stripe Payment  
+✅ Twilio SMS  
+✅ Bank of Abyssinia API  
+✅ Clean backend architecture  
+🔗 **Live Demo:** *Private (Production Level)*  
+🔧 Stack: Laravel • Flutter • Stripe • Twilio • BOA API
 
 ---
 
-## ✨ 3D Contribution Snake Animation
+## 🔹 2. **Negadras – Delivery App**
+Full delivery solution with payment and mapping integrations:
 
-<p align="center">  
-  <img src="https://github.com/tayeanimaw.png?tab=contributions" alt="GitHub Contribution Graph" style="width:100%; max-width:800px; transform: rotate(5deg)" />  
-</p>
-
----
-
-## 💬 Quote of the Day
-
-> “Great software isn’t built in a day… but it *is* built every day.”
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://my-modern-portifolio-website.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
-  <a href="mailto:tayeanimaw7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/taye-animaw/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://t.me/berealstic"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-</p>
+✅ Telebirr  
+✅ Chapa  
+✅ Google Map  
+✅ Gebeta Map  
+✅ Afromessage SMS  
+🔗 *Live Demo: Private (Client Project)*  
+🔧 Stack: Laravel • Flutter • Maps API • Chapa • Telebirr
 
 ---
 
-## ✨ Final Note
+## 🔹 3. **eTalem Cafe Management System**
+Fully functional cafe POS + dashboard  
+🔗 https://etalem-cafe-system.vercel.app/self-orders/3
 
-*Always building. Always improving. Always learning.*
+---
 
+## 🔹 4. **Niimblr Clone – Social App**
+A modern social platform with posts, profiles, auth, etc.  
+🔧 Stack: Laravel
+
+---
+
+## 🔹 5. **Real Estate App**
+Property listings, maps, payments, chats, booking tours  
+🔧 Stack: Laravel • Flutter
+
+---
+
+# 🧱 Professional GitHub Sections
+
+## 📊 GitHub Stats & Performance
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanamn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amanamn&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanamn&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amanamn/amanamn/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+
+# 🌆 GitHub Skyline  
+🔗 https://skyline.github.com/amanamn
+
+---
+
+# 📫 Contact Me
+📧 **Email:** tayeanimaw@gmail.com  
+🌐 **Portfolio:** https://my-modern-portifolio-website.vercel.app/  
+💼 Open for collaborations & freelance projects
+
+---
+
+<div align="center">
+  
+### **Thank you for visiting!**  
+⭐ *Feel free to fork, star, and explore my work.*
+
+</div>
