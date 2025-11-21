@@ -38,6 +38,19 @@ I am a passionate **Full-Stack Software Engineer** based in **Addis Ababa, Ethio
 
 ---
 
+## 🏢 Organizations & Collaborations
+
+<div align="center">
+
+[![Hakim Express](https://img.shields.io/badge/Hakim_Express-International_Remittance-00A859?style=for-the-badge&logo=bank&logoColor=white)](https://github.com/Hakim-Express)
+[![Negadras Delivery](https://img.shields.io/badge/Negadras_Delivery-Logistics_Platform-FF6B35?style=for-the-badge&logo=truck&logoColor=white)](https://github.com/Negadras-Delivery)
+[![Real Estate Platform](https://img.shields.io/badge/Real_Estate_Platform-Property_Management-8B4513?style=for-the-badge&logo=home&logoColor=white)](https://github.com/Mana-ET)
+[![Cafe POS System](https://img.shields.io/badge/Cafe_POS_System-Restaurant_Management-D2691E?style=for-the-badge&logo=coffee&logoColor=white)](https://github.com/Etalem-Cafe)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Expertise
 
 ### **🌐 Backend Development**
@@ -83,7 +96,8 @@ A robust remittance application integrating multiple financial services with rea
 </div>
 
 **Key Features:** Multi-currency transactions, Real-time exchange rates, Bank API integrations, Admin dashboard  
-**🔗 Live Demo:** [Hakim Express](https://hakim-express-live.vercel.app/)
+**🔗 Live Demo:** [Hakim Express](https://hakim-express-live.vercel.app/)  
+**🏢 Organization:** [Hakim Express GitHub](https://github.com/Hakim-Express)
 
 ---
 
@@ -102,7 +116,8 @@ Comprehensive delivery service application with real-time tracking and multiple 
 </div>
 
 **Key Features:** Real-time package tracking, Driver allocation, Route optimization, Customer notifications  
-**🔗 Live Demo:** [Negadras Delivery](https://negadras-delivery.vercel.app/)
+**🔗 Live Demo:** [Negadras Delivery](https://negadras-delivery.vercel.app/)  
+**🏢 Organization:** [Negadras Delivery GitHub](https://github.com/Negadras-Delivery)
 
 ---
 
@@ -120,7 +135,8 @@ Modern property listing and booking platform with advanced search capabilities.
 </div>
 
 **Key Features:** Advanced property search, Virtual tours, Booking system, Agent management  
-**🔗 Live Demo:** [Real Estate Platform](https://mana-et-realestate-clone.vercel.app/)
+**🔗 Live Demo:** [Real Estate Platform](https://mana-et-realestate-clone.vercel.app/)  
+**🏢 Organization:** [Mana ET GitHub](https://github.com/Mana-ET)
 
 ---
 
@@ -138,17 +154,20 @@ Comprehensive Point-of-Sale system with inventory management and analytics.
 </div>
 
 **Key Features:** Table management, Inventory tracking, Sales analytics, Multi-branch support  
-**🔗 Live Demo:** [Cafe POS System](https://etalem-cafe-system.vercel.app/self-orders/3)
+**🔗 Live Demo:** [Cafe POS System](https://etalem-cafe-system.vercel.app/self-orders/3)  
+**🏢 Organization:** [Etalem Cafe GitHub](https://github.com/Etalem-Cafe)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/TayeAnimaw">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+> **📝 Note:** I have **120+ repositories** including public and private projects. GitHub shows only pinned repositories by default. Click the "Repositories" tab to view all available projects.
+
+  <a href="https://github.com/TayeAnimaw?tab=repositories">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" />
   </a>
   
   <br>
@@ -156,8 +175,32 @@ Comprehensive Point-of-Sale system with inventory management and analytics.
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TayeAnimaw&theme=radical&hide_border=true)
   
   <br>
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TayeAnimaw&theme=react-dark&hide_border=true&area=true)
+
+  ### 📈 Repository Overview
+  <a href="https://github.com/TayeAnimaw?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TayeAnimaw&repo=your-repo-name&theme=radical" />
+  </a>
+  <a href="https://github.com/TayeAnimaw?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TayeAnimaw&repo=another-repo&theme=radical" />
+  </a>
+
+</div>
+
+---
+
+## 🔄 Repository Visibility Note
+
+<div align="center">
+
+⚠️ **Repository Display Information**
+
+GitHub typically shows only **pinned repositories** on the main profile page. To view all **120+ repositories** (including private ones where accessible):
+
+1. **Click the "Repositories" tab** above
+2. **Use the search and filter options** to find specific projects
+3. **Check organization accounts** for collaborative projects
+
+**Total Projects:** 120+ repositories across personal and organizational accounts
 
 </div>
 
