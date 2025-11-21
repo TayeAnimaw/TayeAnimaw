@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Backend Developer & Full-Stack Engineer** with strong experience building high-performance systems, scalable APIs, and enterprise-grade applications using **Laravel**, **Livewire**, **Filament**, **python**,**django**,**fastapi**, **Go**,**React**, and **Next.js**.
+I am a **Senior Backend Developer & Full-Stack Engineer** with strong experience building high-performance systems, scalable APIs, and enterprise-grade applications using **Laravel**, **Livewire**, **Filament**, **python**, **django**, **fastapi**, **Go**, **React**, and **Next.js**.
 
 I have worked with **multiple companies**, collaborated with remote teams on **Upwork**, taught students at the **university level**, and built several **large-scale production systems** used by real clients.
 
