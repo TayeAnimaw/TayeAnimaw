@@ -1,6 +1,6 @@
 <!-- ===== HEADER ANIMATION ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1CD6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Taye+Animaw+Alemneh+👋;Fullstack+Developer+%7C+Backend+%26+Mobile Engineer;Building+Modern+Apps+with+Clean+Architecture;Always+Learning+%26+Shipping+Production+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1CD6FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Taye+Animaw+Alemneh+👋;Fullstack+Engineer+%7C+Backend+%26+Mobile Developer;Building+Modern+Apps+with+Clean+Architecture;Always+Learning+%26+Shipping+Production+🚀">
 </div>
 
 <br>
@@ -20,7 +20,7 @@ I specialize in **backend engineering, mobile development, cloud infrastructure*
 
 <div align="center">
 
-### **🖥️ Languages & Frameworks (Top 100%)**
+### **🖥️ Languages & Frameworks (100% Expertise)**
 ![PHP](https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-100%25-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -57,21 +57,23 @@ I specialize in **backend engineering, mobile development, cloud infrastructure*
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
 <!-- Project 1 -->
-<div style="border:1px solid #3ABEF7; border-radius:15px; padding:15px; width:300px;">
+<div style="border:1px solid #1CD6FF; border-radius:15px; padding:15px; width:300px;">
 <h3>💳 Hakim Express</h3>
 <p>International Remittance App integrating Stripe, Twilio, Bank APIs & SMS notifications</p>
 <p>Stack: Laravel • Flutter • Stripe • Twilio • Bank API</p>
+<a href="https://hakim-express-live.vercel.app/">Live Demo</a>
 </div>
 
 <!-- Project 2 -->
-<div style="border:1px solid #3ABEF7; border-radius:15px; padding:15px; width:300px;">
+<div style="border:1px solid #1CD6FF; border-radius:15px; padding:15px; width:300px;">
 <h3>📦 Negadras Delivery</h3>
 <p>Full Delivery App integrating Telebirr, Chapa, Google Map, Gebeta Map & Afromessages</p>
 <p>Stack: Laravel • Flutter • Maps API • Payment Integration</p>
+<a href="https://negadras-delivery.vercel.app/">Live Demo</a>
 </div>
 
 <!-- Project 3 -->
-<div style="border:1px solid #3ABEF7; border-radius:15px; padding:15px; width:300px;">
+<div style="border:1px solid #1CD6FF; border-radius:15px; padding:15px; width:300px;">
 <h3>🏠 Real Estate App</h3>
 <p>Property listing & booking platform</p>
 <p>Stack: Laravel • Flutter</p>
@@ -79,7 +81,7 @@ I specialize in **backend engineering, mobile development, cloud infrastructure*
 </div>
 
 <!-- Project 4 -->
-<div style="border:1px solid #3ABEF7; border-radius:15px; padding:15px; width:300px;">
+<div style="border:1px solid #1CD6FF; border-radius:15px; padding:15px; width:300px;">
 <h3>☕ Cafe Management System</h3>
 <p>POS + Dashboard for cafe operations</p>
 <p>Stack: Laravel • Flutter</p>
@@ -87,7 +89,7 @@ I specialize in **backend engineering, mobile development, cloud infrastructure*
 </div>
 
 <!-- Project 5 -->
-<div style="border:1px solid #3ABEF7; border-radius:15px; padding:15px; width:300px;">
+<div style="border:1px solid #1CD6FF; border-radius:15px; padding:15px; width:300px;">
 <h3>📘 Niimblr Clone</h3>
 <p>Team collaboration & social platform</p>
 <p>Stack: Laravel • Tailwind CSS</p>
