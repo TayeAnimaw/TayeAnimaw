@@ -93,7 +93,7 @@ Property listing, booking, and agent management system with scalable search arch
 **Tech Stack**
 Laravel • Flutter • PostgreSQL  
 
-🔗 Live: https://mana-et-realestate-clone.vercel.app/  
+🔗 Live: https://betegbarpms.com 
 
 ---
 
