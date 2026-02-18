@@ -65,7 +65,7 @@ A real-world fintech system handling secure multi-currency transactions and fina
 **Tech Stack**
 Laravel • Flutter • PostgreSQL • Stripe • Twilio  
 
-🔗 Live: https://hakim-express-live.vercel.app/  
+🔗 Live: http://hakimexpress.com  
 
 ---
 
