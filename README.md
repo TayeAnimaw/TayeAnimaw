@@ -1,254 +1,180 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I'm+Taye+Animaw!;Full-Stack+Engineer;Backend+&+Mobile+Developer;Systems+Architect;Building+Scalable+Solutions&center=true&size=30&width=800&height=100&color=00ff88&vCenter=true&duration=3000&pause=1000)
-  
-  <img src="https://user-images.githubusercontent.com/95831633/178972175-99d96887-8e65-4f7f-8c35-a13dd2f75d3c.gif" alt="Coding Banner" width="100%" /> 
-  
-  ### 🚀 Building modern, high-quality applications with a focus on clean architecture and scalable systems.
-  
-  <div align="center">
-    <a href="https://my-modern-portifolio-website.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/taye-animaw">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:tayeanimaw7@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://t.me/berealstic">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-  </div>
-  
-</div>
+  <h1>Taye Animaw Aemneh</h1>
+  <h3>Senior Full-Stack Engineer • Backend Architect • Mobile Systems Engineer</h3>
 
-<br>
+  <p>
+    Designing scalable systems, production-ready architectures, and high-performance applications.
+  </p>
 
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Full-Stack Software Engineer** based in **Addis Ababa, Ethiopia** 🇪🇹. I specialize in developing robust and scalable solutions across the entire stack, from cloud-native backend services to performant mobile applications.
-
-* 🎯 **Specialties:** Backend Engineering (Scalable APIs), Mobile Development (Cross-Platform), Cloud Infrastructure, and System Design
-* 🏢 **Industry Focus:** Proven experience delivering solutions in **FinTech, Delivery, Real Estate, eCommerce**, and **SaaS**
-* 💼 **Experience:** Collaborated with **multiple companies** and successfully delivered **Upwork freelance projects**
-* 🎓 **Philosophy:** Focused on writing **production-ready code** and implementing **high-quality, maintainable architecture**
-
----
-
-## 🏢 Organizations & Collaborations
-
-<div align="center">
-
-[![Hakim Express](https://img.shields.io/badge/Hakim_Express-International_Remittance-00A859?style=for-the-badge&logo=bank&logoColor=white)](https://github.com/Hakim-Express)
-[![Negadras Delivery](https://img.shields.io/badge/Negadras_Delivery-Logistics_Platform-FF6B35?style=for-the-badge&logo=truck&logoColor=white)](https://github.com/Negadras-Delivery)
-[![Real Estate Platform](https://img.shields.io/badge/Real_Estate_Platform-Property_Management-8B4513?style=for-the-badge&logo=home&logoColor=white)](https://github.com/Mana-ET)
-[![Cafe POS System](https://img.shields.io/badge/Cafe_POS_System-Restaurant_Management-D2691E?style=for-the-badge&logo=coffee&logoColor=white)](https://github.com/Etalem-Cafe)
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-### **🌐 Backend Development**
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) |
-
-### **📱 Frontend & Mobile**
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-
-### **💾 Databases & Services**
-| Category | Technologies |
-| :--- | :--- |
-| **SQL/NoSQL** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **BaaS & APIs** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white) |
-
-### **⚡ DevOps & Cloud**
-| Category | Technologies |
-| :--- | :--- |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-
----
-
-## 💼 Featured Production Projects
-
-### **💳 Hakim Express - International Remittance**
-A robust remittance application integrating multiple financial services with real-time processing.
-
-<div align="center">
-  
-| Feature | Technology |
-| :--- | :--- |
-| **Payment Processing** | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) |
-| **SMS Notifications** | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-
-</div>
-
-**Key Features:** Multi-currency transactions, Real-time exchange rates, Bank API integrations, Admin dashboard  
-**🔗 Live Demo:** [Hakim Express](https://hakim-express-live.vercel.app/)  
-**🏢 Organization:** [Hakim Express GitHub](https://github.com/Hakim-Express)
-
----
-
-### **📦 Negadras Delivery - Logistics & Payments**
-Comprehensive delivery service application with real-time tracking and multiple payment options.
-
-<div align="center">
-  
-| Feature | Technology |
-| :--- | :--- |
-| **Payment Gateways** | ![Telebirr](https://img.shields.io/badge/Telebirr-00A859?style=for-the-badge) ![Chapa](https://img.shields.io/badge/Chapa-FF6B35?style=for-the-badge) |
-| **Maps Integration** | ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-
-</div>
-
-**Key Features:** Real-time package tracking, Driver allocation, Route optimization, Customer notifications  
-**🔗 Live Demo:** [Negadras Delivery](https://negadras-delivery.vercel.app/)  
-**🏢 Organization:** [Negadras Delivery GitHub](https://github.com/Negadras-Delivery)
-
----
-
-### **🏠 Real Estate Management Platform**
-Modern property listing and booking platform with advanced search capabilities.
-
-<div align="center">
-  
-| Feature | Technology |
-| :--- | :--- |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
-
-</div>
-
-**Key Features:** Advanced property search, Virtual tours, Booking system, Agent management  
-**🔗 Live Demo:** [Real Estate Platform](https://mana-et-realestate-clone.vercel.app/)  
-**🏢 Organization:** [Mana ET GitHub](https://github.com/Mana-ET)
-
----
-
-### **☕ Cafe Management System - POS**
-Comprehensive Point-of-Sale system with inventory management and analytics.
-
-<div align="center">
-  
-| Feature | Technology |
-| :--- | :--- |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Dashboard** | ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white) |
-
-</div>
-
-**Key Features:** Table management, Inventory tracking, Sales analytics, Multi-branch support  
-**🔗 Live Demo:** [Cafe POS System](https://etalem-cafe-system.vercel.app/self-orders/3)  
-**🏢 Organization:** [Etalem Cafe GitHub](https://github.com/Etalem-Cafe)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-> **📝 Note:** I have **120+ repositories** including public and private projects. GitHub shows only pinned repositories by default. Click the "Repositories" tab to view all available projects.
-
-  <a href="https://github.com/TayeAnimaw?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=radical&hide_border=true&langs_count=8&count_private=true" />
+  <a href="https://my-modern-portifolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  
-  <br>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TayeAnimaw&theme=radical&hide_border=true)
-  
-  <br>
-
-  ### 📈 Repository Overview
-  <a href="https://github.com/TayeAnimaw?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TayeAnimaw&repo=your-repo-name&theme=radical" />
+  <a href="https://linkedin.com/in/taye-animaw">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/TayeAnimaw?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TayeAnimaw&repo=another-repo&theme=radical" />
+  <a href="mailto:tayeanimaw7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/berealstic">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
 </div>
 
 ---
 
-## 🔄 Repository Visibility Note
+# 👨‍💻 About Me
 
-<div align="center">
+I am a results-driven **Full-Stack Software Engineer** based in Addis Ababa, Ethiopia 🇪🇹, specializing in designing and building **scalable backend systems, high-performance APIs, and production-grade mobile applications**.
 
-⚠️ **Repository Display Information**
+I focus on:
 
-GitHub typically shows only **pinned repositories** on the main profile page. To view all **120+ repositories** (including private ones where accessible):
+- Clean Architecture & SOLID principles  
+- Scalable API design & microservices-ready systems  
+- Cloud-native deployment & DevOps workflows  
+- Real-world fintech, logistics, SaaS & eCommerce systems  
 
-1. **Click the "Repositories" tab** above
-2. **Use the search and filter options** to find specific projects
-3. **Check organization accounts** for collaborative projects
-
-**Total Projects:** 120+ repositories across personal and organizational accounts
-
-</div>
+I don’t just build features — I design **systems that scale, perform, and last**.
 
 ---
 
-## 📞 Let's Connect & Collaborate
+# 🏗 What I Bring to the Table
+
+✔ Architecture-first mindset  
+✔ Production-ready code standards  
+✔ Performance optimization & database design  
+✔ Secure payment & third-party API integrations  
+✔ CI/CD & containerized deployments  
+✔ Cross-platform mobile development  
+
+---
+
+# 🚀 Production Systems I’ve Built
+
+## 💳 Hakim Express — International Remittance Platform
+
+A real-world fintech system handling secure multi-currency transactions and financial integrations.
+
+**Impact Highlights**
+- Integrated Stripe payment processing  
+- Real-time exchange rate handling  
+- Bank API integrations  
+- Secure admin dashboard  
+
+**Tech Stack**
+Laravel • Flutter • PostgreSQL • Stripe • Twilio  
+
+🔗 Live: https://hakim-express-live.vercel.app/  
+
+---
+
+## 📦 Negadras Delivery — Logistics & Payment System
+
+End-to-end delivery ecosystem with driver allocation and live tracking.
+
+**Impact Highlights**
+- Real-time package tracking  
+- Route optimization logic  
+- Multi-payment gateway integration (Telebirr & Chapa)  
+- Push notifications & SMS systems  
+
+**Tech Stack**
+Laravel • Flutter • Google Maps API • MySQL  
+
+🔗 Live: https://negadras-delivery.vercel.app/  
+
+---
+
+## 🏠 Real Estate Management Platform
+
+Property listing, booking, and agent management system with scalable search architecture.
+
+**Tech Stack**
+Laravel • Flutter • PostgreSQL  
+
+🔗 Live: https://mana-et-realestate-clone.vercel.app/  
+
+---
+
+## ☕ Cafe POS & Management System
+
+Multi-branch POS system with inventory and analytics dashboards.
+
+**Tech Stack**
+Laravel • Flutter • Chart.js  
+
+🔗 Live: https://etalem-cafe-system.vercel.app/self-orders/3  
+
+---
+
+# 🛠 Core Technology Stack
+
+## Backend & APIs
+- PHP (Laravel)
+- Python (Django, FastAPI)
+- Node.js (Express)
+- RESTful & JSON API design
+- Authentication & Authorization systems
+
+## Frontend & Mobile
+- React & Next.js
+- Tailwind CSS
+- Flutter (Cross-platform mobile apps)
+
+## Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis (caching & performance)
+
+## DevOps & Cloud
+- Docker & containerized deployment
+- Kubernetes (orchestration)
+- GitHub Actions (CI/CD)
+- AWS & Google Cloud
+- Vercel deployments
+
+---
+
+# 📊 GitHub Overview
+
+- 120+ repositories (public & private)
+- Multiple production deployments
+- Organization-level collaborations
+- Continuous contributor
+
+> I treat GitHub as a living engineering journal — not just a code storage platform.
+
+---
+
+# 🎯 Engineering Philosophy
+
+> “Great software is not about writing more code — it’s about designing better systems.”
+
+I believe in:
+- Long-term maintainability
+- Scalability by design
+- Clean separation of concerns
+- Shipping fast without sacrificing quality
+
+---
+
+# 🤝 Open to Opportunities
+
+I am open to:
+
+- Senior Backend / Full-Stack roles  
+- Remote engineering positions  
+- Contract & freelance architecture work  
+- Technical leadership opportunities  
+
+If you’re building something ambitious — let’s talk.
+
+---
 
 <div align="center">
-  
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://my-modern-portifolio-website.vercel.app/">
-          <img src="https://img.shields.io/badge/Portfolio-00ff88?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/taye-animaw">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:tayeanimaw7@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://t.me/berealstic">
-          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  ### 🚀 Open to new opportunities and exciting collaborations!
-  
-  <br>
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=TayeAnimaw&color=00ff88&style=flat-square)
-  
-  <br>
-  
-  ---
-  
-  ### ✨ *"Code is like humor. When you have to explain it, it's bad." - Cory House* ✨
-  
-  ### 🎯 **Always Building • Always Learning • Always Shipping** 🚀
-  
+
+### Always Building • Always Learning • Always Shipping
+
 </div>
