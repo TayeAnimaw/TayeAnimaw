@@ -82,7 +82,7 @@ End-to-end delivery ecosystem with driver allocation and live tracking.
 **Tech Stack**
 Laravel • Flutter • Google Maps API • MySQL  
 
-🔗 Live: https://negadras-delivery.vercel.app/  
+🔗 Live: https://negadrasexpress.com 
 
 ---
 
