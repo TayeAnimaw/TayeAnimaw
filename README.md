@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1>Taye Animaw Aemneh</h1>
+  <h1>Taye Animaw Alemneh</h1>
   <h3>Senior Full-Stack Engineer • Backend Architect • Mobile Systems Engineer</h3>
 
   <p>
