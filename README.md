@@ -105,5 +105,3 @@ I have also built and shipped consumer products: **EthioLearn**, an exam-prep pl
 
 **Education:** BSc Computer Science, Addis Ababa University &nbsp;·&nbsp; MSc Project Management (in progress), Maryland International College
 
-<br/>
-
