@@ -107,15 +107,3 @@ I have also built and shipped consumer products: **EthioLearn**, an exam-prep pl
 
 <br/>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/2563eb/TayeAnimaw" alt="GitHub contribution graph" width="100%" />
-
-<br/>
-
-![Followers](https://img.shields.io/github/followers/TayeAnimaw?label=Followers&style=flat-square&color=0369a1)
-![Profile views](https://komarev.com/ghpvc/?username=TayeAnimaw&label=Profile%20views&style=flat-square&color=4f46e5)
-
-</div>
