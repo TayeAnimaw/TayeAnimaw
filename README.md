@@ -111,19 +111,11 @@ I have also built and shipped consumer products: **EthioLearn**, an exam-prep pl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
+<img src="https://ghchart.rshah.org/2563eb/TayeAnimaw" alt="GitHub contribution graph" width="100%" />
 
 <br/>
 
-## Contact
+![Followers](https://img.shields.io/github/followers/TayeAnimaw?label=Followers&style=flat-square&color=0369a1)
+![Profile views](https://komarev.com/ghpvc/?username=TayeAnimaw&label=Profile%20views&style=flat-square&color=4f46e5)
 
-Open to **senior backend and full-stack roles**, **remote positions**, **technical leadership**, and **contract architecture work**.
-
-**tayeanimaw7@gmail.com** &nbsp;|&nbsp; [Telegram](https://t.me/berealstic) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/taye-animaw)
-
-<div align="center">
-<sub>Great software is not about writing more code. It is about designing better systems.</sub>
 </div>
