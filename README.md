@@ -1,126 +1,129 @@
 <div align="center">
 
-# Taye Animaw Alemneh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,100:1e3a8a&height=190&section=header&text=Taye%20Animaw%20Alemneh&fontSize=44&fontColor=f8fafc&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%7C%20Technical%20Lead&descSize=18&descColor=7dd3fc&descAlignY=60" width="100%" alt="Taye Animaw Alemneh, Senior Backend Engineer and Technical Lead" />
 
-### Senior Backend Developer · Full-Stack Engineer · Technical Lead
+Scalable APIs, multi-tenant SaaS, fintech and cloud-deployed mobile platforms
 
-*I build scalable APIs, multi-tenant SaaS platforms, and payment-driven systems that run in production.*
+[Portfolio](https://my-modern-portifolio-website.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/taye-animaw) &nbsp;|&nbsp; [Email](mailto:tayeanimaw7@gmail.com) &nbsp;|&nbsp; [Telegram](https://t.me/berealstic)
 
-📍 Addis Ababa, Ethiopia &nbsp;·&nbsp; 🌍 Open to remote work
-
-<a href="https://my-modern-portifolio-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/taye-animaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tayeanimaw7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/berealstic"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+Addis Ababa, Ethiopia &nbsp;·&nbsp; Available for remote work
 
 </div>
 
----
+<br/>
 
-## 👋 About
+## About
 
-I'm a backend-focused engineer with **4+ years** of experience delivering production systems across **fintech, logistics, HR-tech, SaaS and social platforms**. I currently work as a **Senior Backend Developer & Technical Lead**, owning architecture, deployment and delivery, and mentoring other developers.
+Backend-focused engineer with **4+ years** of experience shipping production systems in **fintech, logistics, e-learning, HR-tech, SaaS and social platforms**. I work as a **Senior Backend Developer and Technical Lead**: I own architecture, cloud deployment and delivery, and I mentor the developers around me.
 
-- 🏗️ Designing REST/GraphQL APIs, database schemas and **multi-tenant architectures**
-- 💳 Integrating payments and banking: **Stripe, Chapa, Telebirr, Temenos, Bank of Abyssinia**
-- ⚡ Building real-time features: live tracking, chat, streaming, order flows
-- 🚀 Shipping end to end: Docker, CI/CD with GitHub Actions, cloud/VPS deployment
-- 🎓 Teaching software engineering as a part-time university instructor
+I have also built and shipped consumer products: **EthioLearn**, an exam-prep platform for grade 9 to 12 students and national exam candidates, and **FinCoach**, a money-management SaaS that tracks real cash flow from SMS.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+**What I do**
 
-<div align="center">
+- Design REST and GraphQL APIs and database schemas
+- Build multi-tenant SaaS architectures with strict data isolation
+- Integrate payments and core banking systems
+- Ship real-time features: live tracking, chat, streaming
+- Deploy and operate services on Azure clusters with CI/CD
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,fastapi,nodejs,express,nestjs,ts,js&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,postgres,mysql,firebase,supabase&perline=8" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,gcp,vercel,postman&perline=7" />
+</td>
+<td width="50%" valign="top">
 
-</div>
+**How I work**
 
-| Area | Technologies |
+- Architecture first, clean separation of concerns
+- Security and reliability by default
+- Production-ready code with automated delivery
+- Clear communication with distributed, international teams
+- Mentoring through code reviews and teaching
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Technology
+
+| | |
 |---|---|
-| **Backend** | PHP (Laravel), Python (Django, FastAPI), Node.js (Express, NestJS) |
-| **Frontend & Mobile** | React, Next.js, TypeScript, Tailwind CSS, Flutter, Filament, Livewire |
-| **Databases** | PostgreSQL, MySQL, SQL Server |
-| **DevOps & Cloud** | Docker, GitHub Actions, Google Cloud, VPS, cPanel, Vercel |
-| **Integrations** | Stripe, Chapa, Telebirr, Twilio, AfroMessage, Google Maps API, Temenos |
-| **Practices** | API architecture, system design, microservices, real-time systems, RBAC |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-0369a1?style=flat-square) ![Symfony](https://img.shields.io/badge/Symfony-0369a1?style=flat-square) ![Go](https://img.shields.io/badge/Go-0369a1?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-0369a1?style=flat-square) ![Django](https://img.shields.io/badge/Django-0369a1?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-0369a1?style=flat-square) ![NestJS](https://img.shields.io/badge/NestJS-0369a1?style=flat-square) ![Express](https://img.shields.io/badge/Express-0369a1?style=flat-square) |
+| **Mobile and Web** | ![Flutter](https://img.shields.io/badge/Flutter-4f46e5?style=flat-square) ![React](https://img.shields.io/badge/React-4f46e5?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-4f46e5?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-4f46e5?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4f46e5?style=flat-square) ![Filament](https://img.shields.io/badge/Filament-4f46e5?style=flat-square) ![Livewire](https://img.shields.io/badge/Livewire-4f46e5?style=flat-square) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f766e?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-0f766e?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL%20Server-0f766e?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-0f766e?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-0f766e?style=flat-square) |
+| **Cloud and DevOps** | ![Azure Clusters](https://img.shields.io/badge/Azure%20Clusters-334155?style=flat-square) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-334155?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-334155?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-334155?style=flat-square) ![VPS](https://img.shields.io/badge/VPS-334155?style=flat-square) |
+| **Integrations** | ![Stripe](https://img.shields.io/badge/Stripe-7c3aed?style=flat-square) ![Chapa](https://img.shields.io/badge/Chapa-7c3aed?style=flat-square) ![Telebirr](https://img.shields.io/badge/Telebirr-7c3aed?style=flat-square) ![Twilio](https://img.shields.io/badge/Twilio-7c3aed?style=flat-square) ![AfroMessage](https://img.shields.io/badge/AfroMessage-7c3aed?style=flat-square) ![Google Maps](https://img.shields.io/badge/Google%20Maps-7c3aed?style=flat-square) ![Temenos](https://img.shields.io/badge/Temenos-7c3aed?style=flat-square) |
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Featured Work
 
-### 💸 Hakim Express: International Remittance Platform
-USD → ETB remittance with real-time rate calculation, Stripe and Bank of Abyssinia integration, and Twilio OTP verification, built with bank-grade security in mind.
-`FastAPI` `Stripe` `Twilio` `Banking APIs` `Flutter` · [🔗 Live](http://hakimexpress.com)
+### Financial and Banking Systems
 
-### 🏦 YehuluSaccos: SACCO Management System
-*Backend Lead.* Full platform covering loans, savings, member management and staff administration, integrated with **Temenos** core banking for accounts and transactions.
+| Project | Role | What I built | Stack |
+|---|---|---|---|
+| **YehuluSaccos** | Backend Lead | Full SACCO platform covering loans, savings, member and staff administration, integrated with **Temenos** core banking for accounts and transactions | Backend APIs, Temenos |
+| **Hakim Express** · [Live](http://hakimexpress.com) | Backend Developer | USD to ETB remittance with real-time rate calculation, Stripe and Bank of Abyssinia integration, Twilio OTP verification, bank-grade security | FastAPI, Stripe, Twilio, Flutter |
+| **FinCoach** | Full-Stack | Personal and business finance SaaS for individuals and companies. Users track income and expenses, get guided money-management coaching, and see their real cash flow built automatically from bank and mobile-money SMS messages | Flutter, Backend APIs |
 
-### 📦 Negadras Delivery: Logistics & Payments
-Complete delivery ecosystem with merchant panel, driver app and customer app. Google Maps live tracking, distance calculation and routing, plus Chapa and Telebirr payments and SMS OTP via AfroMessage.
-`Laravel` `Flutter` `Google Maps API` `MySQL` · [🔗 Live](https://negadrasexpress.com)
+### SaaS and Enterprise Platforms
 
-### 🏢 Performance Management SaaS
-*System Architect & Backend Developer.* Secure **multi-tenant** evaluation platform with fully isolated company data, automated scoring, annual review cycles, feedback workflows and HR analytics dashboards.
-`Laravel` `React`
+| Project | Role | What I built | Stack |
+|---|---|---|---|
+| **Performance Management SaaS** | System Architect, Backend | Multi-tenant evaluation platform with isolated company data, automated scoring, annual review cycles, feedback workflows and HR analytics | Laravel, React |
+| **Beverage Distribution SaaS** | Backend Developer | Multi-tenant platform for distributors: orders, delivery routing, REST APIs for field agents, subscription and usage-based billing | Laravel, Filament |
+| **E-Menu and Marketplace** | Full-Stack | Restaurant management plus public discovery marketplace, delivery and pickup flows with real-time order tracking | Full-stack |
+| **Hotel and Cafe Ordering** · [Demo](https://etalem-cafe-system.vercel.app/self-orders/3) | Full-Stack | Ordering and billing, kitchen routing, table management, inventory, sales reporting, tablet-friendly POS | Laravel, Filament, React, MySQL |
 
-### 🥤 Beverage Distribution SaaS
-Multi-tenant platform for distributors with order management, delivery routing, REST APIs for mobile field agents, and subscription/usage-based billing.
-`Laravel` `Filament` `REST APIs`
+### Education, Logistics and Consumer Apps
 
-### 🙏 Faith Connect: Social Media App
-Social platform combining short-video, live streaming, messaging and community features.
+| Project | Role | What I built | Stack |
+|---|---|---|---|
+| **EthioLearn** | Full-Stack | Digital learning platform for Ethiopian students in grades 9 to 12. Each grade has its textbooks, and each textbook comes with short notes, practice questions and realistic model exams. Includes 20 years of past Grade 12 national exams | Flutter, Backend APIs |
+| **Negadras Delivery** · [Live](https://negadrasexpress.com) | Backend and API | Merchant panel, driver app and customer app; Google Maps live tracking and routing; Chapa and Telebirr payments; SMS OTP via AfroMessage | Laravel, Flutter, Google Maps |
+| **Faith Connect** | Full-Stack | Social platform with short video, live streaming, messaging and community features | Full-stack |
+| **Noble Lemat Delivery** | Backend and API | Delivery and marketplace platform combining logistics with e-commerce | Backend APIs |
+| **Real Estate Management** · [Live](https://betegbarpms.com) | Full-Stack | Property listings, client management and transaction tracking | Full-stack |
 
-### 🍽️ E-Menu & Marketplace · ☕ Hotel & Café Ordering System
-Restaurant management with a public discovery marketplace, delivery/pickup flows with real-time tracking, kitchen routing, table management, billing, inventory and a tablet-friendly POS.
-`Laravel` `Filament` `React` `MySQL` · [🔗 Live demo](https://etalem-cafe-system.vercel.app/self-orders/3)
+<sub>Additional work in private and organization repositories includes School Management and Hospital Management systems.</sub>
 
-### 🏠 Real Estate Management Platform
-Property listings, client management and transaction tracking. · [🔗 Live](https://betegbarpms.com)
+<br/>
 
-> More production work is in my private and organization repos: School and Hospital Management systems, Hotel ordering platforms, and others.
+## Experience
 
----
-
-## 💼 Experience Snapshot
-
-| Role | Company | Period |
+| Period | Role | Organization |
 |---|---|---|
-| Senior Backend Developer & Technical Lead | Pitron Tech | Feb 2026 – Present |
-| Full-Stack Engineer (Contract) | Eagle Lion AI | Dec 2025 – Jan 2026 |
-| Backend Developer (Remote) | Zulu Tech (Top-Rated Upwork Agency) | Jan 2024 – Sep 2025 |
-| Backend Lead & Full-Stack Developer | Helder Technological Solution | Sep 2023 – Present |
-| Part-Time Instructor | Admas University College | Feb 2024 – Feb 2026 |
-| Software Developer (Freelance) | International clients | Sep 2021 – Present |
+| Feb 2026 - Present | Senior Backend Developer and Technical Lead | Pitron Tech |
+| Dec 2025 - Jan 2026 | Full-Stack Engineer (Contract) | Eagle Lion AI |
+| Jan 2024 - Sep 2025 | Backend Developer (Remote) | Zulu Tech, top-rated Upwork agency |
+| Sep 2023 - Present | Backend Lead and Full-Stack Developer | Helder Technological Solution |
+| Feb 2024 - Feb 2026 | Part-Time Instructor | Admas University College |
+| Sep 2021 - Present | Software Developer | Freelance, international clients |
 
-🎓 BSc Computer Science, Addis Ababa University · Master's in Project Management (in progress)
+**Education:** BSc Computer Science, Addis Ababa University &nbsp;·&nbsp; MSc Project Management (in progress), Maryland International College
 
----
+<br/>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=TayeAnimaw&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TayeAnimaw&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayeAnimaw&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
----
+<br/>
 
-## 🤝 Let's Work Together
+## Contact
 
-I'm open to **senior backend / full-stack roles**, **remote positions**, **technical leadership**, and **contract architecture work**.
+Open to **senior backend and full-stack roles**, **remote positions**, **technical leadership**, and **contract architecture work**.
 
-📧 **tayeanimaw7@gmail.com** &nbsp;·&nbsp; 💬 [Telegram](https://t.me/berealstic) &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/taye-animaw)
+**tayeanimaw7@gmail.com** &nbsp;|&nbsp; [Telegram](https://t.me/berealstic) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/taye-animaw)
 
 <div align="center">
-
-*Great software isn't about writing more code. It's about designing better systems.*
-
+<sub>Great software is not about writing more code. It is about designing better systems.</sub>
 </div>
